@@ -1,2 +1,3 @@
-# comicsHub
-web site with Spring Boot
+# comicsHub student project
+
+![image](https://i.ibb.co/grRW21R/sample.png)
